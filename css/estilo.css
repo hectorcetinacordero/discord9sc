@@ -10,7 +10,7 @@
   --tipografia_gruesa: "Sigmar", serif;
   --tipografia_delgada: "Lato", serif;
   --negro: #23272a;
-  --morado: #5765f2;
+  --morado: red;
   --gris: #f6f6f6;
 }
 body {
